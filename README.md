@@ -31,9 +31,12 @@ Our <a href="https://finnworlds.com/documentation">documentation</a> includes in
 
 <h2>Examples</h2>
 
+<h2>Examples</h2>
+
 https://api.finnworlds.com/api/v1/benchmark?key=API-KEY&country=france
 
-{
+
+    {
     "status": {
         "code": 200,
         "message": "OK",
@@ -53,6 +56,7 @@ https://api.finnworlds.com/api/v1/benchmark?key=API-KEY&country=france
                 "percentage_year": "-8.99%",
                 "date": "2022:10:25"
             }
+
    
 
     
