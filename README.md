@@ -1,4 +1,4 @@
-# Stock-Market-Index-API-
+# Stock-Market-Index-API
 <p><a href="https://finnworlds.com/stock-market-index-api/">Stock Market Index API</a> provided by Finnworlds is a data delivery format that allows you to get instantly real-time and historical stock market index data. The stock market index data focuses on more than forty-five stock market indices as Finnworlds covers the most demanded stock market indices in North and South America, Europe and Africa, as well as Asia and Australia. Users of stock market index data get a detailed account of the daily,  weekly, monthly and yearly percentage changes in the stock index price. In addition, they get data on the region and country where the stock market index has been compiled as well as index benchmark and date. Stock market indices are very popular with financial analysts, investors and economists as they use the stock market index data to track the financial performance of company stocks within a given industry or sector, and the economic performance of countries worldwide. 
 
 Finnworlds has a stock market index data users of different background. Many amateur and professional investors, trading platforms, economists, financial researchers and analysts as well as developers use the Stock Market Index API. Users of financial background use the data on stock market indices for doing detailed company and industry analysis and valuation in different countries. On the other hand, developers utulize the data for building application that process the stock market data as an input. Finnworlds Stock Market Index Database is regularly updated on a weekly and quarterly basis. 
@@ -28,8 +28,6 @@ If you are interested in the Stock Market Index API provided by Finnworlds, then
 
 
 Our <a href="https://finnworlds.com/documentation">documentation</a> includes input parameters, output objects with explanation of their meaning, we also provide clear examples on the documentation page of various endpoints and their output. We also have SDKs for Javascript, JQuery, VueJS, Angular, JAVA, PHP, NodeJS, Python, Go, Ruby, C#, R, Strest, Rust, Swift and Scala</p>
-
-<h2>Examples</h2>
 
 <h2>Examples</h2>
 
